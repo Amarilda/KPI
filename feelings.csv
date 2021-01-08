@@ -2,6 +2,8 @@ date,feeling,exercise,walk,headache,poorsleep
 01/01/2021,happy,,,,
 02/01/2021,happy,,,,
 03/01/2021,happy,,,,
-04/01/2021,happy,y,,,
-05/01/2021,fine,,y,y,
-06/01/2021,fine
+04/01/2021,happy,1,,,
+05/01/2021,fine,,1,1,
+06/01/2021,fine,,,,
+07/01/2021,tired,,,1,1
+08/01/2021,fine,,,,
