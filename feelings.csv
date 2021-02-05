@@ -32,5 +32,6 @@ date,feeling,exercise,if,walk,alchocol,headache,latesleep,interrupted sleep(toth
 31/01/2021,energised,,1,,,,,
 01/02/2021,energised,,,,,,,
 02/02/2021,docile,,1,,,,,
-03/02/2021,hungry,,1,,,,,
-04/02/2021,"sleepy,weak",1,,,,,,1
+03/02/2021,hungry,,1,,,,,1
+04/02/2021,"sleepy,weak",1,,1,,,,
+05/02/2021,energised,1,,1,,,,
