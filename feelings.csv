@@ -1,45 +1,46 @@
 date,feeling,exercise,if,walk,alchocol,headache,latesleep,interrupted sleep(tothenextday)
-01/01/2021,happy,,,,,,,
-02/01/2021,happy,,,,,,,
-03/01/2021,happy,,,,,,,
-04/01/2021,happy,1,,,,,,
-05/01/2021,fine,,,1,,1,,
-06/01/2021,fine,,,,,,,
-07/01/2021,tired,,,,,1,,1
-08/01/2021,fine,,,1,,,,
-09/01/2021,jolly,,,1,,,,
-10/01/2021,"anxious, happy",,,1,,,,1
-11/01/2021,determinated,1,,1,,,,1
-12/01/2021,tired,1,,1,,1,,1
-13/01/2021,"tired, down, happy",1,,,,1,,1
-14/01/2021,determinated,,,1,,,,
-15/01/2021,determinated,,,,,,,
-16/01/2021,"determinated, happy",,,,,,,
-17/01/2021,tired,,,1,,1,,
-18/01/2021,"determinated, happy, relieved",,,,,,,
-19/01/2021,"docile, sluggish",,,1,,,,1
-20/01/2021,sleepy,,,1,,,,
-21/01/2021,"fine,energised",1,,,,,,
-22/01/2021,energised,1,1,,1,,,
-23/01/2021,"sleepy,accomplished,happy,relived",1,1,1,,,,
-24/01/2021,happy,1,1,1,,,,
-25/01/2021,energised,1,1,1,,,,
-26/01/2021,energised,1,1,,,,1,
-27/01/2021,sleepy,,1,1,,,,
-28/01/2021,energised,1,1,1,,,,
-29/01/2021,determinated,,1,,1,,,
-30/01/2021,energised,,1,1,1,,,
-31/01/2021,energised,,1,,,,,
-01/02/2021,energised,,,,,,,
-02/02/2021,docile,,1,,,,,
-03/02/2021,hungry,,1,,,,,1
-04/02/2021,"sleepy,weak",1,,1,,,,
-05/02/2021,energised,1,,,,,,
-06/02/2021,sleepy,,,1,1,,,
-07/02/2021,neutral,,,,1,,,
-08/02/2021,"energised,determinated",1,1,,1,,,
-09/02/2021,determinated,,1,1,,,,
-10/02/2021,energised,,1,,,,,1
-11/02/2021,happy,,,,,,,
+14/02/2021,rested,,,,,,,
+13/02/2021,determinated,,,,,1,,1
 12/02/2021,determinated,,1,,,1,,
-13/02/2021,determinated
+11/02/2021,happy,,,,,,,
+10/02/2021,energised,,1,,,,,1
+09/02/2021,determinated,,1,1,,,,
+08/02/2021,"energised,determinated",1,1,,1,,,
+07/02/2021,neutral,,,,1,,,
+06/02/2021,sleepy,,,1,1,,,
+05/02/2021,energised,1,,,,,,
+04/02/2021,"sleepy,weak",1,,1,,,,
+03/02/2021,hungry,,1,,,,,1
+02/02/2021,docile,,1,,,,,
+01/02/2021,energised,,,,,,,
+31/01/2021,energised,,1,,,,,
+30/01/2021,energised,,1,1,1,,,
+29/01/2021,determinated,,1,,1,,,
+28/01/2021,energised,1,1,1,,,,
+27/01/2021,sleepy,,1,1,,,,
+26/01/2021,energised,1,1,,,,1,
+25/01/2021,energised,1,1,1,,,,
+24/01/2021,happy,1,1,1,,,,
+23/01/2021,"sleepy,accomplished,happy,relived",1,1,1,,,,
+22/01/2021,energised,1,1,,1,,,
+21/01/2021,"fine,energised",1,,,,,,
+20/01/2021,sleepy,,,1,,,,
+19/01/2021,"docile, sluggish",,,1,,,,1
+18/01/2021,"determinated, happy, relieved",,,,,,,
+17/01/2021,tired,,,1,,1,,
+16/01/2021,"determinated, happy",,,,,,,
+15/01/2021,determinated,,,,,,,
+14/01/2021,determinated,,,1,,,,
+13/01/2021,"tired, down, happy",1,,,,1,,1
+12/01/2021,tired,1,,1,,1,,1
+11/01/2021,determinated,1,,1,,,,1
+10/01/2021,"anxious, happy",,,1,,,,1
+09/01/2021,jolly,,,1,,,,
+08/01/2021,fine,,,1,,,,
+07/01/2021,tired,,,,,1,,1
+06/01/2021,fine,,,,,,,
+05/01/2021,fine,,,1,,1,,
+04/01/2021,happy,1,,,,,,
+03/01/2021,happy,,,,,,,
+02/01/2021,happy,,,,,,,
+01/01/2021,happy,,,,,,,
