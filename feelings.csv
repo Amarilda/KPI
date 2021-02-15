@@ -1,7 +1,8 @@
 date,feeling,exercise,if,walk,alchocol,headache,latesleep,interrupted sleep(tothenextday)
-14/02/2021,rested,,,,,,,
-13/02/2021,determinated,,,,,1,,1
-12/02/2021,determinated,,1,,,1,,
+15/02/2021,sleepy
+14/02/2021,rested,,,1,1,,,
+13/02/2021,determinated,,,,1,1,,1
+12/02/2021,determinated,,1,,1,1,,
 11/02/2021,happy,,,,,,,
 10/02/2021,energised,,1,,,,,1
 09/02/2021,determinated,,1,1,,,,
