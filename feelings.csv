@@ -1,6 +1,7 @@
 date,feeling,exercise,jump,if,walk,alcohol,headache,latesleep,interrupted sleep(tothenextday)
-01/03/2021,"excited,calm",1,,1,,,,,
-22/03/2021,enegic,,,,,,,,
+01/03/2021,"excited,calm",,,,,,,,
+23/03/2021,enegic,1,,1,,,1,,
+22/03/2021,enegic,1,,1,1,,,,
 21/03/2021,enegic,1,,,,,,,
 20/03/2021,enegic,,,1,1,,,,
 19/03/2021,enegic,,,,1,,,,
